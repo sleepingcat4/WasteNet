@@ -7,7 +7,7 @@ WasteNet shows superior capability in classifying images over previously known p
 
 A approach known as discriminative learning was used to prevent “catastrophic forgetting” and overall generalise the dataset and convergence. 
 
-Dataset
+## Dataset
 
 WasteNet was originally trained on trashnet dataset which was open sourced by Stanford University. It contains 2533 images of waste in 6 different categories. 
 
